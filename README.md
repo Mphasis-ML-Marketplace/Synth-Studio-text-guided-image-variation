@@ -1,4 +1,4 @@
-# Synth-Studio-text-guided-image-variation
+# Synth-Studio-Text-Guided-Image-Variation
 ## Product Overview
 
 Text-guided Image Variation helps in creating high-quality ethical images by adding or omitting elements to the given input image based on the text provided. The solution uses deep generative neural network concepts like image synthesis and latent diffusion models to create completely new images with reduced memory and computational cost. It can also enhance the resolution or change the design of the image as per the text input. The solution uses ML-based content moderation techniques to consider the ethical aspects of generated images by sending appropriate warnings. If  Not Safe For Work score (NSFW) is more than a fixed threshold or a blank image is generated then the model throws an error stating to give an appropriate input prompt or to change the random seed.
